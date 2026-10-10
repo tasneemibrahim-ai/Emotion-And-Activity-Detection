@@ -306,3 +306,9 @@ Alamein International University
 
 **GPU**: NVIDIA GeForce RTX 3050 Ti Laptop GPU  
 **Last Updated**: December 2025
+
+---
+
+## Author
+
+Tasneem Ibrahim - Ramez Ezzat - Mariam Sobhy
